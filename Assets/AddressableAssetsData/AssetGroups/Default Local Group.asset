@@ -1,0 +1,61 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: Default Local Group
+  m_EditorClassIdentifier: 
+  m_GroupName: Default Local Group
+  m_Data:
+    m_SerializedData: []
+  m_GUID: 6645fd296648e8f4aa23fcde9edf6b7d
+  m_SerializeEntries:
+  - m_GUID: ab2f8f8417e68274b936156b955b4a4a
+    m_Address: SceneData
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 88de454a809c8bc40a282dbc11a9d5f8
+    m_Address: Assets/Data/Enemies
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Enemy
+  - m_GUID: 20708caab891e934ba54f00846e9eca8
+    m_Address: Assets/Data/Waves
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Waves
+    - Wave
+  - m_GUID: abc40a8b7555a1145ad6199023f40a67
+    m_Address: Assets/Data/Weapons
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Weapon
+  - m_GUID: 860472da38e0aa2419fa9cbbc16de988
+    m_Address: Hero
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: d3d46ea46b779f44d9907cadd0dda93d
+    m_Address: HUD
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: e206c9e7c31a14049a7ba8931762b735
+    m_Address: InventoryItem
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: e469c72de06f95e48a23282b0aceb4de
+    m_Address: Shield
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  m_ReadOnly: 0
+  m_Settings: {fileID: 11400000, guid: c1916c8a53cd7a54e89f7faf20655ed6, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: 99f1ddc6223d0ba4a8b2e5a67bfdfc0a, type: 2}
+    - {fileID: 11400000, guid: 24cc9d19918708e47a0ae8323dd1896b, type: 2}

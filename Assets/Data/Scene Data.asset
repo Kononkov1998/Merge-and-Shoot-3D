@@ -1,0 +1,30 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c6e10d9639ba4923ab5b42702f1c6925, type: 3}
+  m_Name: Scene Data
+  m_EditorClassIdentifier: 
+  EnemyFirstSpawnData:
+    Position: {x: 5.44, y: 0, z: -4.98}
+    Rotation: {x: 0, y: 0, z: 0, w: 0}
+  EnemySecondSpawnData:
+    Position: {x: 6.85, y: 0, z: 6.73}
+    Rotation: {x: 0, y: 0, z: 0, w: 0}
+  HeroSpawnData:
+    Position: {x: -4, y: 0, z: -0}
+    Rotation: {x: -0, y: 0.70710677, z: -0, w: 0.7071068}
+  ShieldSpawnData:
+    Transform:
+      Position: {x: -2.339, y: 0.4385, z: 0}
+      Rotation: {x: 0, y: 0, z: 0, w: 1}
+    InactivePosition: {x: -2.339, y: 0.4385, z: -16.93}
+  CameraData:
+    Position: {x: 0, y: 11.18, z: -12.33}

@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1b93b4c7845a4cdd9f19baabbb018f44, type: 3}
+  m_Name: Zombie
+  m_EditorClassIdentifier: 
+  Prefab: {fileID: 8345063223631357161, guid: 2da7ef42de54d2d48abba9a083a4f496, type: 3}
+  EnemyType: 1
+  Health: 5
+  Damage: 1
+  MovementSpeed: 1
+  RotationSpeed: 360
+  AttackDistance: 2
+  AttackCooldown: 0.5
+  MinMoney: 5
+  MaxMoney: 15
